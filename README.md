@@ -186,7 +186,3 @@ School of Computing and Data Science, The University of Hong Kong
 
 BEng in Computer Science  
 The Hong Kong University of Science and Technology  
-
-## Licence
-
-No open-source licence is declared in this portfolio release. Do not assume permission to reuse, redistribute, or modify the code. A repository licence should be selected only after confirming ownership of every included file and any applicable institutional, team, data-use, or third-party obligations.
